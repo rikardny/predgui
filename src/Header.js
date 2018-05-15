@@ -10,6 +10,7 @@ export class Header extends React.Component {
               Pharmbio JSME project
             </h1>
             <h2 className="subtitle">
+              Built w/ React
             </h2>
           </div>
         </div>
