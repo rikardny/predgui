@@ -7,10 +7,10 @@ export class Header extends React.Component {
         <div className="hero-body">
           <div className="container">
             <h1 className="title">
-              Pharmbio JSME project
+              PredGUI Project
             </h1>
             <h2 className="subtitle">
-              Built w/ React
+              Built w/ React.
             </h2>
           </div>
         </div>
