@@ -10,7 +10,7 @@ export class Header extends React.Component {
               PredGUI Project
             </h1>
             <h2 className="subtitle">
-              Built w/ React.
+              Subtitle test.
             </h2>
           </div>
         </div>
